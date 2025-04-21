@@ -15,9 +15,9 @@ const PersonTable: React.FC<PersonTableProps> = ({ people, handleOpen, handleDel
     <Table>
       <TableHead>
         <TableRow>
-          <TableCell>First Person Name</TableCell>
-          <TableCell>Last Person Name</TableCell>
-          <TableCell>Phone</TableCell>
+          <TableCell>First Person Identity Name</TableCell>
+          <TableCell>Last Person Identity Name</TableCell>
+          <TableCell>Phone NUmber</TableCell>
           <TableCell>Actions</TableCell>
         </TableRow>
       </TableHead>
